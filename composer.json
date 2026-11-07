@@ -1,0 +1,9 @@
+{
+  "name": "elnemer70/adhkar-php-hisn-muslim-indexer",
+  "description": "Hisn Al-Muslim (Fortress of the Muslim) 132-Chapter Authenticated Index (مفهرس حصن المسلم الموضوعي بالأسانيد الصحيحة)",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  }
+}
